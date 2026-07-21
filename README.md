@@ -20,7 +20,7 @@ through FastAPI with a React frontend. Infeasible targets return structured
 explanations rather than an error.
 
 **[ByteMe-Project](https://github.com/gulsherassad/movie-review-platform)** — Movie
-review platform built by a team of four for UBCO COSC 310. FastAPI backend,
+review platform built by a team of four for UBCO COSC 310 (Software Engineering). FastAPI backend,
 Next.js frontend, containerized with Docker Compose. I owned the review and
 comment modules.
 
