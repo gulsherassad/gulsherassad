@@ -82,16 +82,11 @@ containers orchestrated with Docker Compose.
 
 ## Background
 
-Before Kelowna I lived in Zambia and Côte d'Ivoire, finishing the IB Diploma at
-the International Community School of Abidjan. Currently working through the IBM
-AI Engineering Professional Certificate, mostly for the PyTorch and Keras
-material.
-
-Interested in roles where the work involves modelling something real and being
+Currently working through the IBM AI Engineering Professional Certificate, mostly for the PyTorch and Keras
+material. Interested in roles where the work involves modelling something real and being
 honest about how well it worked.
 
 ## Reach me
 
 [Email](mailto:gulsherassad1@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/gulshera/) ·
-[GitHub](https://github.com/gulsherassad)
