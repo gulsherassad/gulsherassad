@@ -1,34 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gulsher Assad
-======================================================================================================================================
+# Gulsher Assad
 
-CS Student at UBC Okanagan
---------------------------
+CS student at UBC Okanagan (BSc, expected Apr 2027), based in Kelowna, BC.
 
-I mostly build Python backends with a model doing something non-trivial behind them — statistical forecasting, constrained optimization, and the API and frontend work to make them usable.
+I build Python backends with a model doing something non-trivial behind them —
+statistical forecasting and constrained optimization — along with the API and
+frontend work that makes them usable by someone other than me. I care about
+evaluating things honestly: walk-forward backtests instead of in-sample
+accuracy, benchmarks against a real baseline, and tests that cover the parts
+that would fail silently.
 
-* 🌍  I'm based in Kelowna, B.C, Canada
-* 🖥️  See my portfolio at [Github](http://https://github.com/gulsherassad)
-* ✉️  You can contact me at [gulsherassad1@gmail.com](mailto:gulsherassad1@gmail.com)
-* 🚀  I'm currently working on [Premier League Predictor](http://https://epl-predictor-xmqs.onrender.com/)
-* 🧠  I'm currently learning ML, scikit-learn, Pandas, PostgreSQL
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+## Projects
 
-### Socials
+### [epl-predictor](https://github.com/gulsherassad/epl-predictor) · [live](https://epl-predictor-xmqs.onrender.com)
 
-<p align="left"> <a href="https://www.github.com/gulsherassad" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/gulshera" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+Premier League match forecaster combining an Elo rating system with a Poisson
+goals model, blended and served through FastAPI.
 
-<b>My GitHub Stats</b>
+- 54.9% 1X2 accuracy across a 1,420-match walk-forward backtest, roughly level
+  with betting-market accuracy and ~10 points above an always-pick-home baseline
+- Per-fixture expected goals and full scoreline distributions, not just win
+  probabilities
+- Backtest methodology and per-model comparison published in the README, misses
+  included
 
-<a href="http://www.github.com/gulsherassad"><img src="https://github-readme-stats.vercel.app/api?username=gulsherassad&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=f97316&icon_color=64748b&bg_color=000000&hide_border=true&show_icons=true" alt="gulsherassad's GitHub stats" /></a>
+`Python` · `FastAPI` · `scikit-learn` · `pandas` · `Render`
 
-<a href="http://www.github.com/gulsherassad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gulsherassad&stroke=f97316&background=000000&ring=64748b&fire=64748b&currStreakNum=f97316&currStreakLabel=64748b&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+### [macro_optimizer](https://github.com/gulsherassad/macro_optimizer)
 
-<a href="https://github.com/gulsherassad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherassad&langs_count=10&title_color=64748b&text_color=f97316&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Meal planning as a constrained optimization problem: minimize calories subject
+to a protein floor, calorie ceiling, and optional carb/fat ranges, solved with
+PuLP.
 
-<b>Top Repositories</b>
+- Solver kept fully separate from the API layer so optimization logic is
+  testable on its own
+- Infeasible macro targets return structured explanations rather than errors,
+  and the solver extends to full-day planning by solving each meal independently
+- 75 tests across solver correctness, API integration, and UI behaviour, at 98%
+  statement coverage on the backend
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+`Python` · `FastAPI` · `PuLP` · `PostgreSQL` · `React` · `Docker` · `Alembic`
+
+### [ByteMe-Project](https://github.com/gulsherassad/ByteMe-Project)
+
+Movie review platform built by a team of four for a software engineering course.
+I owned the review and comment modules end to end — create, edit, delete, and
+threaded comments.
+
+`Python` · `FastAPI` · `Next.js` · `TypeScript` · `Docker`
+
+---
+
+## Working with
+
+**Languages** Python, JavaScript, TypeScript, Java, SQL
+**Backend** FastAPI, Pydantic, PostgreSQL, Alembic
+**Data & ML** pandas, NumPy, scikit-learn, PuLP, PyTorch
+**Frontend** React, Next.js
+**Tooling** Git, Docker, pytest, Vitest
+
+---
+
+## Reach me
+
+[Email](mailto:gulsherassad1@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/gulsherassad)
