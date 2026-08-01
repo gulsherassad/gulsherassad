@@ -1,10 +1,9 @@
 # Gulsher Assad
-
 **CS student at UBC Okanagan** (BSc, expected Apr 2027) · Kelowna, BC
 
 I build Python backends with a model doing something non-trivial behind them —
-statistical forecasting, constrained optimization — plus the API and frontend
-work that makes them usable by someone other than me.
+statistical forecasting, constrained optimization, LLM-powered systems — plus the
+API and frontend work that makes them usable by someone other than me.
 
 The part I care about most is evaluation. It's easy to build a model that looks
 good on the data it was trained on, and easy to write code that passes the tests
@@ -16,8 +15,28 @@ rather than a flattering one, and coverage over the paths that fail quietly.
 
 ## Projects
 
-### ⚽ [epl-predictor](https://github.com/gulsherassad/epl-predictor) — [live demo](https://epl-predictor-xmqs.onrender.com)
+### 🐦 [querybird](https://github.com/gulsherassad/querybird)
+Natural-language-to-SQL system: ask a database a question in plain English, and
+it writes the SQL, runs it, and returns the answer — the query and the result,
+side by side.
 
+| | |
+|---|---|
+| **Execution accuracy** | 64.2% on the full 500-question BIRD Mini-Dev benchmark |
+| **Scoring** | BIRD's official evaluator, not a custom comparison |
+| **By difficulty** | 76% simple · 63% moderate · 50% challenging |
+
+An LLM generates SQL from the question plus schema-grounded prompting; the query
+runs against a read-only, SELECT-only connection with timeouts and row caps.
+The accuracy came from failure analysis rather than guesswork — a harness
+categorized all 500 outputs and found ~99% of failures were queries that ran but
+returned the wrong answer rather than execution errors, which pointed the work
+toward prompting over retry logic. The README publishes the full experiment log,
+including a sample-rows change that measured worse and was reverted.
+
+`Python` · `FastAPI` · `SQLite` · `LLM (Anthropic)` · `JavaScript` · `pytest`
+
+### ⚽ [epl-predictor](https://github.com/gulsherassad/epl-predictor) — [live demo](https://epl-predictor-xmqs.onrender.com)
 Premier League match forecaster combining an Elo rating system with a Poisson
 goals model, blended and served through a FastAPI backend.
 
@@ -37,7 +56,6 @@ included, along with where the model loses to the market.
 `Python` · `FastAPI` · `scikit-learn` · `pandas` · `pytest` · `Render`
 
 ### 🥗 [macro_optimizer](https://github.com/gulsherassad/macro_optimizer)
-
 Meal planning as a constrained optimization problem: minimize calories subject
 to a protein floor, a calorie ceiling, and optional carb and fat ranges.
 
@@ -55,7 +73,6 @@ to a protein floor, a calorie ceiling, and optional carb and fat ranges.
 `Python` · `FastAPI` · `PuLP` · `PostgreSQL` · `Alembic` · `React` · `Docker` · `pytest` · `Vitest`
 
 ### 🎬 [movie-review-platform](https://github.com/gulsherassad/movie-review-platform)
-
 Full-stack movie review platform built by a team of four for COSC 310
 (Software Engineering) at UBCO.
 
@@ -74,19 +91,16 @@ containers orchestrated with Docker Compose.
 |---|---|
 | **Languages** | Python, JavaScript, TypeScript, Java, SQL |
 | **Backend** | FastAPI, Pydantic, PostgreSQL, Alembic, Uvicorn |
-| **Data & ML** | pandas, NumPy, scikit-learn, PuLP, PyTorch |
+| **Data & ML** | pandas, NumPy, scikit-learn, PuLP, PyTorch, LLMs (Anthropic API) |
 | **Frontend** | React, Next.js |
 | **Tooling** | Git, Docker, pytest, Vitest, Render |
-
 ---
 
 ## Background
-
 Currently working through the IBM AI Engineering Professional Certificate, mostly for the PyTorch and Keras
 material. Interested in roles where the work involves modelling something real and being
 honest about how well it worked.
 
 ## Reach me
-
 [Email](mailto:gulsherassad1@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/gulshera/) ·
