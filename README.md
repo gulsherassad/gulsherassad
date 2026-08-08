@@ -40,13 +40,11 @@ tried, measured as worse, and reverted.
 ### ⚽ [epl-predictor](https://github.com/gulsherassad/epl-predictor) — [live demo](https://epl-predictor-xmqs.onrender.com)
 Premier League match forecaster combining an Elo rating system with a Poisson
 goals model, blended and served through a FastAPI backend.
-
 | | |
 |---|---|
-| **1X2 accuracy** | 54.9% across a 1,420-match walk-forward backtest |
-| **Baseline** | ~10 points above always-picking-home, roughly level with betting-market accuracy |
+| **1X2 accuracy** | 53.9% across a 1,711-match walk-forward backtest |
+| **Baseline** | ~9 points above always-picking-home, approaching betting-market accuracy |
 | **Outputs** | Win/draw/loss probabilities, per-fixture expected goals, full scoreline distributions |
-
 Elo ratings update sequentially through five seasons of results while a Poisson
 model estimates attack and defence strength per team, and the two are blended and
 renormalized. Backtesting is strictly walk-forward, so each prediction uses only
