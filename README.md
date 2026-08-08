@@ -38,19 +38,18 @@ tried, measured as worse, and reverted.
 `Python` · `FastAPI` · `SQLite` · `LLM (Anthropic)` · `JavaScript` · `pytest`
 
 ### ⚽ [epl-predictor](https://github.com/gulsherassad/epl-predictor) — [live demo](https://epl-predictor-xmqs.onrender.com)
-Premier League match forecaster combining an Elo rating system with a Poisson
-goals model, blended and served through a FastAPI backend.
+
+Premier League match forecaster combining an Elo rating system with a Poisson goals model, blended and served through a FastAPI backend.
+
 | | |
 |---|---|
 | **1X2 accuracy** | 53.9% across a 1,711-match walk-forward backtest |
 | **Baseline** | ~9 points above always-picking-home, approaching betting-market accuracy |
 | **Outputs** | Win/draw/loss probabilities, per-fixture expected goals, full scoreline distributions |
-Elo ratings update sequentially through five seasons of results while a Poisson
-model estimates attack and defence strength per team, and the two are blended and
-renormalized. Backtesting is strictly walk-forward, so each prediction uses only
-matches played before it and the reported accuracy isn't inflated by leakage.
-The README publishes the full model comparison, Elo-only and Poisson-only
-included, along with where the model loses to the market.
+
+Elo ratings update sequentially through five seasons of results while a Poisson model estimates attack and defence strength per team, and the two are blended and renormalized. Backtesting is strictly walk-forward, so each prediction uses only matches played before it and the reported accuracy isn't inflated by leakage.
+
+The README publishes the full model comparison, Elo-only and Poisson-only included, along with where the model loses to the market.
 
 `Python` · `FastAPI` · `scikit-learn` · `pandas` · `pytest` · `Render`
 
