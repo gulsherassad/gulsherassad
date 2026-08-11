@@ -16,6 +16,19 @@ rather than a flattering one, and coverage over the paths that fail quietly.
 
 ## Projects
 
+### ✅ [task-manager-api](https://github.com/gulsherassad/task-manager-api)
+A RESTful task-management API built with Java and Spring Boot, with full CRUD,
+filtering, request validation, and a layered controller-service-repository architecture.
+| | |
+|---|---|
+| **Stack** | Java, Spring Boot, Maven, Spring Data JPA, H2, JUnit |
+| **Features** | Create, read, update, delete tasks; filter by status and priority; sort by due date |
+| **Engineering** | Bean Validation at the API boundary, layered architecture, JUnit and MockMvc integration tests |
+
+Built as a clean, production-shaped REST service to demonstrate backend
+fundamentals in the Java and Spring ecosystem, endpoint design, JPA persistence,
+input validation, and automated testing.
+
 ### 🐦 [querybird](https://github.com/gulsherassad/querybird)
 Ask a database a question in plain English and it writes the SQL, runs it, and
 gives you back both the query and the answer.
