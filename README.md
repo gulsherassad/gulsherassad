@@ -1,5 +1,5 @@
 # Gulsher Assad
-**CS student at UBC Okanagan** (BSc, expected Apr 2027) · Kelowna, BC
+**CS student at UBC Okanagan** (BSc, expected August 2027) · Kelowna, BC
 
 I build Python backends with a model doing something non-trivial behind them,
 things like statistical forecasting, constrained optimization, and LLM-powered
